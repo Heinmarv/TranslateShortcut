@@ -1,2 +1,3 @@
 # TranslateShortcut
-# Download:https://www.icloud.com/shortcuts/9b8d17941629429590ef94d3dbd9795d
+# Download:https://www.icloud.com/shortcuts/5b10de486a4c408b924db9ff5429192e
+# Version:1.00
